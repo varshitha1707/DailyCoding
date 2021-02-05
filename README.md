@@ -47,3 +47,16 @@ https://www.geeksforgeeks.org/rearrange-given-array-place/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+#
+
+
+### DAY 5:
+TASK: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+https://www.geeksforgeeks.org/trapping-rain-water/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-5)
+Expected Time Complexity: O(n^2)
+
+Expected Auxiliary Space: O(1)
