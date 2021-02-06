@@ -68,6 +68,6 @@ TASK: We are given two sorted arrays. We need to merge these two arrays such tha
 https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-6)
-Expected Time Complexity: O(n+m)
+Expected Time Complexity: O(n*m)
 
 Expected Auxiliary Space: O(1)
