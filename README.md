@@ -50,7 +50,6 @@ Expected Auxiliary Space: O(1)
 
 #
 
-
 ### DAY 5:
 TASK: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 
@@ -58,5 +57,17 @@ https://www.geeksforgeeks.org/trapping-rain-water/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-5)
 Expected Time Complexity: O(n^2)
+
+Expected Auxiliary Space: O(1)
+
+#
+
+### DAY 6:
+TASK: We are given two sorted arrays. We need to merge these two arrays such that the initial numbers (after complete sorting) are in the first array and the remaining numbers are in the second array. Extra space allowed in O(1).
+
+https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-6)
+Expected Time Complexity: O(n+m)
 
 Expected Auxiliary Space: O(1)
