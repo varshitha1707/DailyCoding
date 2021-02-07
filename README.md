@@ -71,3 +71,16 @@ https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
 Expected Time Complexity: O(n*m)
 
 Expected Auxiliary Space: O(1)
+
+#
+
+### DAY 7:
+TASK: An element in a sorted array can be found in O(log n) time via binary search. But suppose we rotate an ascending order sorted array at some pivot unknown to you beforehand. Devise a way to find an element in the rotated array in O(log n) time.
+
+https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-7)
+Expected Time Complexity: O(log(n))
+
+Expected Auxiliary Space: O(1)
+
