@@ -84,3 +84,15 @@ Expected Time Complexity: O(log(n))
 
 Expected Auxiliary Space: O(1)
 
+#
+
+### DAY 8:
+TASK: Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. The merge() function is used for merging two halves. Write the merge function along with the whole program. 
+
+https://www.geeksforgeeks.org/merge-sort/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-8)
+Expected Time Complexity: O(n) (Only for the merge() function)
+
+Expected Auxiliary Space: O(n)
+
