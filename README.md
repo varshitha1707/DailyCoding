@@ -96,3 +96,16 @@ Expected Time Complexity: O(n) (Only for the merge() function)
 
 Expected Auxiliary Space: O(n)
 
+
+#
+
+### DAY 9:
+TASK: Given two sorted arrays, find their union. 
+
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-9)
+Expected Time Complexity: O(n+m) 
+
+Expected Auxiliary Space: O(n+m)
+
