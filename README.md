@@ -109,3 +109,16 @@ Expected Time Complexity: O(n+m)
 
 Expected Auxiliary Space: O(n+m)
 
+#
+
+### DAY 10:
+TASK: Given two sorted arrays, find their intersection. 
+
+https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-10)
+Expected Time Complexity: O(n+m) 
+
+Expected Auxiliary Space: O(n+m)
+
+
