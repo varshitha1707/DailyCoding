@@ -122,3 +122,16 @@ Expected Time Complexity: O(n+m)
 Expected Auxiliary Space: O(n+m)
 
 
+#
+
+### DAY 11:
+TASK: Given an array of n distinct elements, find the minimum number of swaps required to sort the array. 
+
+https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-11)
+Expected Time Complexity: O(nlogn) 
+
+Expected Auxiliary Space: O(n)
+
+
