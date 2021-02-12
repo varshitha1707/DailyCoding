@@ -135,3 +135,17 @@ Expected Time Complexity: O(nlogn)
 Expected Auxiliary Space: O(n)
 
 
+#
+
+### DAY 12:
+TASK:Given an array “a[]” and integer “b”. Find whether b is present in a[] or not. If present, then double the value of b and search again. We repeat these steps until b is not found. Finally we return value of b.
+
+geeksforgeeks.org/repeatedly-search-element-doubling-every-successful-search/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-12)
+
+Expected Time Complexity: O(n) 
+
+Expected Auxiliary Space: O(n)
+
+
