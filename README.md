@@ -1,6 +1,7 @@
 # DAILY CODING
 
 ### DAY 1:
+
 TASK: Given a number N, print all numbers in the range from 1 to N having exactly 3 divisors.
 
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
@@ -13,6 +14,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 2:
+
 TASK: Given two integers ‘a’ and ‘m’, find modular multiplicative inverse of ‘a’ under modulo ‘m’. The modular multiplicative inverse is an integer ‘x’ such that. 
 a x ≅ 1 (mod m)
 The value of x should be in {0, 1, 2, … m-1}, i.e., in the range of integer modulo m.
@@ -27,6 +29,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 3:
+
 TASK: Given an array of integers, find the first repeating element in it. We need to find the element that occurs more than once and whose index of first occurrence is smallest. 
 
 https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
@@ -39,6 +42,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 4:
+
 TASK: Given an array arr[] of size n where every element is in range from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]]. This should be done with O(1) extra space.  
 
 https://www.geeksforgeeks.org/rearrange-given-array-place/
@@ -51,6 +55,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 5:
+
 TASK: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 
 https://www.geeksforgeeks.org/trapping-rain-water/
@@ -63,6 +68,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 6:
+
 TASK: We are given two sorted arrays. We need to merge these two arrays such that the initial numbers (after complete sorting) are in the first array and the remaining numbers are in the second array. Extra space allowed in O(1).
 
 https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
@@ -75,6 +81,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 7:
+
 TASK: An element in a sorted array can be found in O(log n) time via binary search. But suppose we rotate an ascending order sorted array at some pivot unknown to you beforehand. Devise a way to find an element in the rotated array in O(log n) time.
 
 https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
@@ -87,6 +94,7 @@ Expected Auxiliary Space: O(1)
 #
 
 ### DAY 8:
+
 TASK: Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. The merge() function is used for merging two halves. Write the merge function along with the whole program. 
 
 https://www.geeksforgeeks.org/merge-sort/
@@ -100,6 +108,7 @@ Expected Auxiliary Space: O(n)
 #
 
 ### DAY 9:
+
 TASK: Given two sorted arrays, find their union. 
 
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
@@ -112,6 +121,7 @@ Expected Auxiliary Space: O(n+m)
 #
 
 ### DAY 10:
+
 TASK: Given two sorted arrays, find their intersection. 
 
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
@@ -125,11 +135,13 @@ Expected Auxiliary Space: O(n+m)
 #
 
 ### DAY 11:
+
 TASK: Given an array of n distinct elements, find the minimum number of swaps required to sort the array. 
 
 https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-11)
+
 Expected Time Complexity: O(nlogn) 
 
 Expected Auxiliary Space: O(n)
@@ -138,6 +150,7 @@ Expected Auxiliary Space: O(n)
 #
 
 ### DAY 12:
+
 TASK:Given an array “a[]” and integer “b”. Find whether b is present in a[] or not. If present, then double the value of b and search again. We repeat these steps until b is not found. Finally we return value of b.
 
 geeksforgeeks.org/repeatedly-search-element-doubling-every-successful-search/
