@@ -176,7 +176,6 @@ Expected Time Complexity: O(nlogn)
 
 Expected Auxiliary Space: O(n)
 
-
 #
 
 ### DAY 14:
@@ -190,4 +189,20 @@ https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
 Expected Time Complexity: O(n*m) 
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 14:
+
+TASK: Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last. 
+
+geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-15)
+
+Expected Time Complexity: O(n) 
+
+Expected Auxiliary Space: O(1)
+
 
