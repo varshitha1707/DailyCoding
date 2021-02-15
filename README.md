@@ -177,3 +177,17 @@ Expected Time Complexity: O(nlogn)
 Expected Auxiliary Space: O(n)
 
 
+#
+
+### DAY 14:
+
+TASK:Given two sorted arrays, a[] and b[], the task is to find the median of these sorted arrays, in O(log n + log m) time complexity, when n is the number of elements in the first array, and m is the number of elements in the second array. 
+
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-14)
+
+Expected Time Complexity: O(n*m) 
+
+Expected Auxiliary Space: O(1)
+
