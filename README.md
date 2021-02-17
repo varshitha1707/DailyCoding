@@ -11,6 +11,7 @@ Expected Time Complexity: O(n^2/2)
 
 Expected Auxiliary Space: O(1)
 
+
 #
 
 ### DAY 2:
@@ -26,6 +27,7 @@ Expected Time Complexity: O(m)
 
 Expected Auxiliary Space: O(1)
 
+
 #
 
 ### DAY 3:
@@ -38,6 +40,7 @@ https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 Expected Time Complexity: O(n^2-n)
 
 Expected Auxiliary Space: O(1)
+
 
 #
 
@@ -52,6 +55,7 @@ Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
 
+
 #
 
 ### DAY 5:
@@ -64,6 +68,7 @@ https://www.geeksforgeeks.org/trapping-rain-water/
 Expected Time Complexity: O(n^2)
 
 Expected Auxiliary Space: O(1)
+
 
 #
 
@@ -78,6 +83,7 @@ Expected Time Complexity: O(n*m)
 
 Expected Auxiliary Space: O(1)
 
+
 #
 
 ### DAY 7:
@@ -90,6 +96,7 @@ https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 Expected Time Complexity: O(log(n))
 
 Expected Auxiliary Space: O(1)
+
 
 #
 
@@ -117,6 +124,7 @@ https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
 Expected Time Complexity: O(n+m) 
 
 Expected Auxiliary Space: O(n+m)
+
 
 #
 
