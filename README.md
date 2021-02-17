@@ -7,6 +7,7 @@ TASK: Given a number N, print all numbers in the range from 1 to N having exactl
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-1)
+
 Expected Time Complexity: O(n^2/2)
 
 Expected Auxiliary Space: O(1)
@@ -23,6 +24,7 @@ The value of x should be in {0, 1, 2, … m-1}, i.e., in the range of integer mo
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-2)
+
 Expected Time Complexity: O(m)
 
 Expected Auxiliary Space: O(1)
@@ -37,6 +39,7 @@ TASK: Given an array of integers, find the first repeating element in it. We nee
 https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-3)
+
 Expected Time Complexity: O(n^2-n)
 
 Expected Auxiliary Space: O(1)
@@ -51,6 +54,7 @@ TASK: Given an array arr[] of size n where every element is in range from 0 to n
 https://www.geeksforgeeks.org/rearrange-given-array-place/
 
 ### My Solution:[ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-4)
+
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
@@ -65,6 +69,7 @@ TASK: Given n non-negative integers representing an elevation map where the widt
 https://www.geeksforgeeks.org/trapping-rain-water/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-5)
+
 Expected Time Complexity: O(n^2)
 
 Expected Auxiliary Space: O(1)
@@ -79,6 +84,7 @@ TASK: We are given two sorted arrays. We need to merge these two arrays such tha
 https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-6)
+
 Expected Time Complexity: O(n*m)
 
 Expected Auxiliary Space: O(1)
@@ -93,6 +99,7 @@ TASK: An element in a sorted array can be found in O(log n) time via binary sear
 https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-7)
+
 Expected Time Complexity: O(log(n))
 
 Expected Auxiliary Space: O(1)
@@ -107,6 +114,7 @@ TASK: Merge Sort is a Divide and Conquer algorithm. It divides the input array i
 https://www.geeksforgeeks.org/merge-sort/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-8)
+
 Expected Time Complexity: O(n) (Only for the merge() function)
 
 Expected Auxiliary Space: O(n)
@@ -121,6 +129,7 @@ TASK: Given two sorted arrays, find their union.
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-9)
+
 Expected Time Complexity: O(n+m) 
 
 Expected Auxiliary Space: O(n+m)
@@ -135,6 +144,7 @@ TASK: Given two sorted arrays, find their intersection.
 https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-10)
+
 Expected Time Complexity: O(n+m) 
 
 Expected Auxiliary Space: O(n+m)
