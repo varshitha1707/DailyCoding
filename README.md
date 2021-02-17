@@ -215,3 +215,16 @@ TASK: Perform arithmetic operations on 2 given matrices.
 https://www.geeksforgeeks.org/different-operation-matrices/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-16)
+
+
+
+#
+
+### DAY 17:
+
+TASK: Given an array of N elements, the task is to minimize the maximum difference of adjacent elements by inserting at most K elements in the array. 
+
+https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elements-after-at-most-k-insertions/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-17)
+
