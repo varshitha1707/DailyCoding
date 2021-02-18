@@ -246,3 +246,14 @@ https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elemen
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-17)
 
+
+#
+
+### DAY 18:
+
+TASK: Given a matrix of N size, the task is to find the determinant of the matrix. 
+
+https://www.geeksforgeeks.org/determinant-of-a-matrix/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-18)
+
