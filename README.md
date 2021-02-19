@@ -249,11 +249,11 @@ https://www.geeksforgeeks.org/minimize-the-maximum-difference-of-adjacent-elemen
 
 #
 
-### DAY 18:
+### DAY 19:
 
-TASK: Given a matrix of N size, the task is to find the determinant of the matrix. 
+TASK: Given a matrix of N size, the task is to find the transpose of the matrix. 
 
-https://www.geeksforgeeks.org/determinant-of-a-matrix/
+https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
 
-### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-18)
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-19)
 
