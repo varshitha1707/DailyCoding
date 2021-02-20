@@ -268,3 +268,14 @@ https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-19)
 
+
+#
+
+### DAY 20:
+
+TASK: Given a matrix of N size, the task is to rotate the matrix by 90 degrees without using extra space. 
+
+https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-20)
+
