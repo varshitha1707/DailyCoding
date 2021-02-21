@@ -280,5 +280,15 @@ https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-directio
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-20)
 
 
+#
+
+### DAY 21:
+
+TASK: Given a 2D array, print it in spiral form. 
+
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-21)
+
 
 
