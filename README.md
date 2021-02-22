@@ -291,5 +291,14 @@ https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-21)
 
 
+#
+
+### DAY 22:
+
+TASK: Given an n x n matrix and a number x, find the position of x in the matrix if it is present in it. Otherwise, print “Not Found”. In the given matrix, every row and column is sorted in increasing order. 
+
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-22)
 
 
