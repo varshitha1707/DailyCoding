@@ -303,5 +303,13 @@ https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/
 
 
 
+#
 
+### DAY 23:
+
+TASK: Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
+
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-23)
 
