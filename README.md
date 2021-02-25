@@ -328,7 +328,7 @@ https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-
 
 ### DAY 25:
 
-TASK: Given a number, find its corresponding Roman numeral. 
+TASK: Given a string containing lowercase characters. The task is to print the maximum occurring character in the input string. If 2 or more characters appear the same number of times, print the lexicographically (alphabetically) lowest (first) character. 
 
 https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/
 
