@@ -330,6 +330,6 @@ https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-
 
 TASK: Given a string containing lowercase characters. The task is to print the maximum occurring character in the input string. If 2 or more characters appear the same number of times, print the lexicographically (alphabetically) lowest (first) character. 
 
-https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/
+geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-24)
