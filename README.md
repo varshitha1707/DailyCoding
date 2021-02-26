@@ -342,7 +342,7 @@ geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 
 TASK: Pangram is a sentence containing every letter in the English alphabet. Given a string, find all characters that are missing from the string, i.e., the characters that can make the string a Pangram. We need to print output in alphabetic order. 
 
-geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
+https://www.geeksforgeeks.org/missing-characters-make-string-pangram/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-25)
 
