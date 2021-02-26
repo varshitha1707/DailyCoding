@@ -340,7 +340,7 @@ geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 
 ### DAY 26:
 
-TASK: Given a string containing lowercase characters. The task is to print the maximum occurring character in the input string. If 2 or more characters appear the same number of times, print the lexicographically (alphabetically) lowest (first) character. 
+TASK: Pangram is a sentence containing every letter in the English alphabet. Given a string, find all characters that are missing from the string, i.e., the characters that can make the string a Pangram. We need to print output in alphabetic order. 
 
 geeksforgeeks.org/maximum-occurring-character-in-an-input-string-set-2/
 
