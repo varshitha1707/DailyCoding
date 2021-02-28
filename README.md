@@ -365,7 +365,7 @@ https://www.geeksforgeeks.org/program-to-validate-an-ip-address/
 
 ### DAY 28:
 
-TASK: Write a program to Validate an IPv4 Address.
+TASK: Given two strings s1 and s2, find if s1 is a substring of s2. If yes, return the index of the first occurrence, else return -1.
 
 https://www.geeksforgeeks.org/program-to-validate-an-ip-address/
 
