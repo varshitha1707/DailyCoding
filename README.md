@@ -370,3 +370,15 @@ TASK: Given two strings s1 and s2, find if s1 is a substring of s2. If yes, retu
 https://www.geeksforgeeks.org/check-string-substring-another/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-28)
+
+
+#
+
+### DAY 29:
+
+TASK: Given two strings s1 and s2, find if s1 is a substring of s2. If yes, return the index of the first occurrence, else return -1.
+
+https://www.geeksforgeeks.org/check-string-substring-another/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-28)
+
