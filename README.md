@@ -389,6 +389,6 @@ https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-
 
 TASK: Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1?
 
-https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-29)
