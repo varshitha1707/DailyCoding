@@ -383,3 +383,12 @@ https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-29)
 
 
+#
+
+### DAY 30:
+
+TASK: Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible for every character of str1 to every character of str2. And all occurrences of every character in ‘str1’ map to same character in ‘str2’
+
+https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-29)
