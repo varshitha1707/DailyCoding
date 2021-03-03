@@ -393,3 +393,13 @@ https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-eac
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-30)
 
+
+#
+
+### DAY 31:
+
+TASK: Given a string str, find the length of the longest substring without repeating characters. 
+
+https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-31)
