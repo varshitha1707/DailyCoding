@@ -405,3 +405,13 @@ https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-31)
 
 
+#
+
+### DAY 32:
+
+TASK: Given two positive numbers as strings. The numbers may be very large (may not fit in long long int), the task is to find product of these two numbers. 
+
+https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-32)
+
