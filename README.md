@@ -415,3 +415,13 @@ https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-32)
 
+
+#
+
+### DAY 33:
+
+TASK: Write a function to check whether two given strings are anagram of each other or not. 
+
+https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-33)
