@@ -425,3 +425,14 @@ TASK: Write a function to check whether two given strings are anagram of each ot
 https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-33)
+
+
+#
+
+### DAY 34:
+
+TASK: Find Excel column name from a given column number. 
+
+https://www.geeksforgeeks.org/find-excel-column-name-given-number/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-34)
