@@ -453,9 +453,9 @@ https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
 
 ### DAY 36:
 
-TASK: Reverse words in a given string. 
+TASK: Given a number n, check if k-th bit of n is set or not. 
 
-https://www.geeksforgeeks.org/reverse-words-in-a-given-string/
+https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/
 
-### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-35)
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-36)
 
