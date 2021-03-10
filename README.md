@@ -470,3 +470,13 @@ https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-37)
 
+
+#
+
+### DAY 38:
+
+TASK: A number is said to be a sparse number if in binary representation of the number no two or more consecutive bits are set. Write a function to check if a given number is Sparse or not. 
+
+https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-38)
