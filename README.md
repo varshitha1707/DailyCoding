@@ -459,3 +459,14 @@ https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-36)
 
+
+#
+
+### DAY 37:
+
+TASK: Given a positive integer, write a function to find if it is a power of two or not. 
+
+https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-37)
+
