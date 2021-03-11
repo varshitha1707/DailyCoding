@@ -480,3 +480,14 @@ TASK: A number is said to be a sparse number if in binary representation of the 
 https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-38)
+
+
+#
+
+### DAY 39:
+
+TASK: Given two numbers ‘a’ and b’. Write a program to count number of bits needed to be flipped to convert ‘a’ to ‘b’.
+
+https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-39)
