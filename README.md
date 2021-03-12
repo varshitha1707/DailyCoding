@@ -491,3 +491,14 @@ TASK: Given two numbers ‘a’ and b’. Write a program to count number of bit
 https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-39)
+
+
+#
+
+### DAY 40:
+
+TASK: Gray to Binary and Binary to Gray conversion.
+
+https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-40)
