@@ -536,3 +536,13 @@ https://www.geeksforgeeks.org/position-rightmost-different-bit/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-43)
 
+
+#
+
+### DAY 44:
+
+TASK: Given an set of positive integers. find the maximum XOR subset value in the given set. Expected time complexity O(n).  
+
+https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-44)
