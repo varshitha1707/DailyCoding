@@ -548,3 +548,12 @@ https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-44)
 
 
+#
+
+### DAY 45:
+
+TASK: Swap all odd and even bits. Expected time complexity O(1).  
+
+https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-45)
