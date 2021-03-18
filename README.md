@@ -13,7 +13,6 @@ Expected Time Complexity: O(n^2/2)
 Expected Auxiliary Space: O(1)
 
 
-
 #
 
 ### DAY 2:
@@ -560,3 +559,12 @@ https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-45)
 
 
+#
+
+### DAY 46:
+
+TASK: Check if two arrays are equal or not using Hashing.  
+
+https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-46)
