@@ -563,8 +563,20 @@ https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/
 
 ### DAY 46:
 
-TASK: Check if two arrays are equal or not using Hashing.  
+TASK: Check if two arrays are equal or not, using Hashing.  
 
 https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-46)
+
+
+#
+
+### DAY 47:
+
+TASK: Given an array with repeated elements, the task is to find the maximum distance two occurrences of an element.  
+
+https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-47)
+
