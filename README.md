@@ -7,7 +7,6 @@ TASK: Given a number N, print all numbers in the range from 1 to N having exactl
 https://www.geeksforgeeks.org/numbers-exactly-3-divisors/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-1)
-
 Expected Time Complexity: O(n^2/2)
 
 Expected Auxiliary Space: O(1)
