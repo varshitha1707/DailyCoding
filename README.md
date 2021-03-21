@@ -590,3 +590,15 @@ TASK: Write a program that, given an array A[] of n numbers and another number x
 https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-48)
+
+
+#
+
+### DAY 49:
+
+TASK: Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came first.   
+
+https://www.geeksforgeeks.org/sort-elements-by-frequency/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-49)
+
