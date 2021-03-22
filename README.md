@@ -601,3 +601,15 @@ TASK: Print the elements of an array in the decreasing frequency if 2 numbers ha
 https://www.geeksforgeeks.org/sort-elements-by-frequency/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-49)
+
+
+#
+
+### DAY 50:
+
+TASK: Print *ALL non-repeated elements of an array.
+
+similar to
+https://www.geeksforgeeks.org/sort-elements-by-frequency/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-49)
