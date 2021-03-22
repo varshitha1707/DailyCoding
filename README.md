@@ -607,9 +607,9 @@ https://www.geeksforgeeks.org/sort-elements-by-frequency/
 
 ### DAY 50:
 
-TASK: Print *ALL non-repeated elements of an array.
+TASK: Print ALL non-repeated elements of an array.
 
-similar to
-https://www.geeksforgeeks.org/sort-elements-by-frequency/
+*Similar to:*
+https://www.geeksforgeeks.org/non-repeating-element/
 
-### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-49)
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-50)
