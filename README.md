@@ -615,3 +615,14 @@ https://www.geeksforgeeks.org/non-repeating-element/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-50)
 
+
+#
+
+### DAY 51:
+
+TASK: Given an array, print all subarrays in the array which has sum 0.
+
+https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-51)
+
