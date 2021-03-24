@@ -626,3 +626,13 @@ https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-51)
 
+
+#
+
+### DAY 52:
+
+TASK: Find k numbers with most occurrences in the given array.
+
+https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-52)
