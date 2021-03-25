@@ -636,3 +636,14 @@ TASK: Find k numbers with most occurrences in the given array.
 https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-52)
+
+
+#
+
+### DAY 53:
+
+TASK: Sort an array according to the order defined by another array
+
+https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-53)
