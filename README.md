@@ -648,3 +648,15 @@ TASK: Sort an array according to the order defined by another array
 https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-53)
+
+
+#
+
+### DAY 54:
+
+TASK: Given an array of integers, find the length of the longest sub-array with sum equals to 0.
+
+https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-54)
+
