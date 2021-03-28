@@ -668,3 +668,14 @@ TASK: Given an array of integers, find anyone combination of four elements in th
 https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-55)
+
+
+#
+
+### DAY 56:
+
+TASK: Given an array of size n and an integer k, return the count of distinct numbers in all windows of size k.
+
+https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-56)
