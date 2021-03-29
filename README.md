@@ -679,3 +679,13 @@ TASK: Given an array of size n and an integer k, return the count of distinct nu
 https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-56)
+
+
+#
+
+### DAY 57:
+
+TASK: Print all elements of a Linked List where we take linked list as input and print the linked list in a single line.
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-57)
+
