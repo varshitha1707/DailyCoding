@@ -691,5 +691,19 @@ TASK: Print all elements of a Linked List where we take linked list as input and
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-57)
 
 Expected Time Complexity : O(N)
+
 Expected Auxiliary Space : O(1)
+
+
+### DAY 58:
+
+TASK: Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing the links between nodes.
+
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-58)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
 
