@@ -707,3 +707,14 @@ Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(1)
 
 
+### DAY 59:
+
+TASK: Given a singly linked list and a key, count number of occurrences of given key in linked list.
+
+https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-59)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
