@@ -718,3 +718,16 @@ https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+### DAY 60:
+
+TASK: Given a singly linked list, write a function to swap elements pairwise.
+
+https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-60)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
