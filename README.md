@@ -731,3 +731,17 @@ https://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+### DAY 60:
+
+TASK: Given two numbers represented by two linked lists, write a function that returns the sum list. The sum list is linked list representation of the addition of two input numbers. It is not allowed to modify the lists. Also, not allowed to use explicit extra space (Hint: Use Recursion).
+
+https://www.geeksforgeeks.org/sum-of-two-linked-lists/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-61)
+
+Expected Time Complexity: O(n+m)
+
+Expected Auxiliary Space: O(max(n,m)
+
