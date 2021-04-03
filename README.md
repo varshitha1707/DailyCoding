@@ -733,7 +733,7 @@ Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(1)
 
 
-### DAY 60:
+### DAY 61:
 
 TASK: Given two numbers represented by two linked lists, write a function that returns the sum list. The sum list is linked list representation of the addition of two input numbers. It is not allowed to modify the lists. Also, not allowed to use explicit extra space (Hint: Use Recursion).
 
@@ -744,4 +744,19 @@ https://www.geeksforgeeks.org/sum-of-two-linked-lists/
 Expected Time Complexity: O(n+m)
 
 Expected Auxiliary Space: O(max(n,m)
+
+
+### DAY 62:
+
+TASK: Write a  function to insert a new value in a sorted Circular Linked List (CLL). For example, if the input CLL is following. 
+
+https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-62)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
+
+
 
