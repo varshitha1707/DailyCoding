@@ -759,4 +759,14 @@ Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(1)
 
 
+### DAY 63:
 
+TASK: Split a Circular Linked List into two halves. 
+
+https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-63)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
