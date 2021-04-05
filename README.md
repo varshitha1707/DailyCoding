@@ -782,3 +782,18 @@ https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 64:
+
+TASK: Given a linked list, write a function to reverse every k nodes (where k is an input to the function). 
+
+https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-64)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
