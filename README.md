@@ -797,3 +797,18 @@ https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 65:
+
+TASK: Given a linked list, check if the linked list has loop or not. Below diagram shows a linked list with a loop. 
+
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-65)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
