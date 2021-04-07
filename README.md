@@ -812,3 +812,18 @@ https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 66:
+
+TASK: Write a function to get the intersection point of two Linked Lists.
+
+https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-66)
+
+Expected Time Complexity: O(n+m)
+
+Expected Auxiliary Space: O(1)
