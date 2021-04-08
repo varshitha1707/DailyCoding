@@ -828,3 +828,18 @@ https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-
 Expected Time Complexity: O(n+m)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 67:
+
+TASK: Given a singly linked list, delete middle of the linked list. For example, if given linked list is 1->2->3->4->5 then linked list should be modified to 1->2->4->5.
+
+https://www.geeksforgeeks.org/delete-middle-of-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-67)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
