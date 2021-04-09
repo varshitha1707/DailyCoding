@@ -842,3 +842,18 @@ https://www.geeksforgeeks.org/delete-middle-of-linked-list/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 68:
+
+TASK: Clone a linked list with next and random pointer.
+
+https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-68)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
