@@ -857,3 +857,49 @@ https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 69:
+
+TASK: QuickSort on Singly Linked List.
+
+https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-69)
+
+
+#
+
+### DAY 70:
+
+TASK:
+
+Given a Circular Linked List. The task is to write programs to delete nodes from this list present at: 
+First position.
+Last Position.
+At any given position i.
+
+https://www.geeksforgeeks.org/deletion-at-different-positions-in-a-circular-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-70)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 71:
+
+TASK: QuickSort on Doubly Linked List
+
+https://www.geeksforgeeks.org/quicksort-for-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-71)
+
+Expected Time Complexity: O(nlog(n))
+
+Expected Auxiliary Space: O(1)
