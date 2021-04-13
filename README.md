@@ -903,3 +903,18 @@ https://www.geeksforgeeks.org/quicksort-for-linked-list/
 Expected Time Complexity: O(nlog(n))
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 72:
+
+TASK: Delete a Node from linked list without head pointer.
+
+https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-72)
+
+Expected Time Complexity: O(1)
+
+Expected Auxiliary Space: O(1)
