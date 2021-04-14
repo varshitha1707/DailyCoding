@@ -918,3 +918,16 @@ https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointe
 Expected Time Complexity: O(1)
 
 Expected Auxiliary Space: O(1)
+
+
+#
+
+### DAY 72:
+
+TASK: Given a doubly linked list, write a function to sort the doubly linked list in increasing order using merge sort.
+
+https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-73)
+
+
