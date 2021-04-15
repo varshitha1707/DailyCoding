@@ -922,7 +922,7 @@ Expected Auxiliary Space: O(1)
 
 #
 
-### DAY 72:
+### DAY 73:
 
 TASK: Given a doubly linked list, write a function to sort the doubly linked list in increasing order using merge sort.
 
@@ -930,4 +930,16 @@ https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-73)
 
+#
 
+### DAY 74:
+
+TASK: Reverse a string using stack.
+
+https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-74)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(n)
