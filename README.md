@@ -943,3 +943,19 @@ https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(n)
+
+
+#
+
+### DAY 75:
+
+TASK: Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1. The next greater elements should be printed in same order as input array.
+
+https://www.geeksforgeeks.org/next-greater-element-in-same-order-as-input/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-75)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(n)
+
