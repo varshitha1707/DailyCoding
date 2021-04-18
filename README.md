@@ -974,3 +974,18 @@ Expected Time Complexity: O(1)
 
 Expected Auxiliary Space: O(1)
 
+
+#
+
+### DAY 77:
+
+TASK: The Postfix notation is used to represent algebraic expressions. The expressions written in postfix form are evaluated faster compared to infix notation as parenthesis are not required in postfix.
+
+https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/#:~:text=The%20expressions%20written%20in%20postfix,are%20not%20required%20in%20postfix.&text=Following%20is%20algorithm%20for%20evaluation,following%20for%20every%20scanned%20element
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-77)
+
+Expected Time Complexity: O(|s|)
+
+Expected Auxiliary Space: O(|s|)
+
