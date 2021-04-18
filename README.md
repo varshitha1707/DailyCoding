@@ -959,3 +959,18 @@ Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(n)
 
+
+#
+
+### DAY 76:
+
+TASK: Design a Data Structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. All these operations of SpecialStack must be O(1).
+
+https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-76)
+
+Expected Time Complexity: O(1)
+
+Expected Auxiliary Space: O(1)
+
