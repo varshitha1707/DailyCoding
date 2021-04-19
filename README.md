@@ -989,3 +989,19 @@ Expected Time Complexity: O(|s|)
 
 Expected Auxiliary Space: O(|s|)
 
+
+#
+
+### DAY 78:
+
+TASK: Given a binary matrix, find the maximum size rectangle binary-sub-matrix with all 1’s. 
+
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-78)
+
+Expected Time Complexity : O(n*m)
+
+Expected Auixiliary Space : O(m)
+
+
