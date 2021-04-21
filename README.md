@@ -1024,3 +1024,19 @@ https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
 Expected Time Complexity : O(n*n)
 
 Expected Auixiliary Space : O(n)
+
+
+#
+
+### DAY 80:
+
+TASK: Largest Rectangular Area in a Histogram.
+
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-80)
+
+Expected Time Complexity : O(n)
+
+Expected Auixiliary Space : O(n)
+
