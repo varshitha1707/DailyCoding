@@ -1040,3 +1040,17 @@ Expected Time Complexity : O(n)
 
 Expected Auixiliary Space : O(n)
 
+
+#
+
+### DAY 81:
+
+TASK: Given an expression string exp, write a program to examine whether the pairs and the orders of “{“, “}”, “(“, “)”, “[“, “]” are correct in exp.
+
+https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-81)
+
+Expected Time Complexity : O(|x|)
+
+Expected Auixiliary Space : O(|x|)
