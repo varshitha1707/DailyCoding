@@ -1055,3 +1055,20 @@ Expected Time Complexity : O(|x|)
 
 Expected Auixiliary Space : O(|x|)
 
+
+#
+
+### DAY 82:
+
+TASK: Find maximum of minimum for every window size in a given array.
+
+https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-82)
+
+Expected Time Complexity : O(n)
+
+Expected Auixiliary Space : O(n)
+
+
+
