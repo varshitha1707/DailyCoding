@@ -1071,4 +1071,17 @@ Expected Time Complexity : O(n)
 Expected Auixiliary Space : O(n)
 
 
+#
 
+### DAY 83:
+
+TASK: The stock span problem is a financial problem where we have a series of n daily price quotes for a stock and we need to calculate span of stock’s price for all n days. 
+The span Si of the stock’s price on a given day i is defined as the maximum number of consecutive days just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.
+
+https://www.geeksforgeeks.org/the-stock-span-problem/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-83)
+
+Expected Time Complexity : O(n)
+
+Expected Auixiliary Space : O(n)
