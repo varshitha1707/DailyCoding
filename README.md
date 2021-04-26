@@ -1091,12 +1091,27 @@ Expected Auixiliary Space : O(n)
 
 ### DAY 84:
 
-TASK: Given a number n, write a function that generates and prints all binary numbers with decimal values from 1 to n. 
+TASK: Convert an infix expression to a Postfix expression
 
-https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-84)
 
 Expected Time Complexity : O(|x|)
 
 Expected Auixiliary Space : O(|x|)
+
+
+#
+
+### DAY 85:
+
+TASK: Given a number n, write a function that generates and prints all binary numbers with decimal values from 1 to n. 
+
+https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-85)
+
+Expected Time Complexity : O(Nlog2N)
+
+Expected Auixiliary Space : O(Nlog2N)
