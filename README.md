@@ -1085,3 +1085,18 @@ https://www.geeksforgeeks.org/the-stock-span-problem/
 Expected Time Complexity : O(n)
 
 Expected Auixiliary Space : O(n)
+
+
+#
+
+### DAY 84:
+
+TASK: Given a number n, write a function that generates and prints all binary numbers with decimal values from 1 to n. 
+
+https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-84)
+
+Expected Time Complexity : O(|x|)
+
+Expected Auixiliary Space : O(|x|)
