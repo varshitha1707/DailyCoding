@@ -1115,3 +1115,17 @@ https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
 Expected Time Complexity : O(Nlog2N)
 
 Expected Auixiliary Space : O(Nlog2N)
+
+#
+
+### DAY 86:
+
+TASK: Write the functions push() and pop() for a queue. 
+
+https://www.geeksforgeeks.org/queuepush-and-queuepop-in-cpp-stl/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-86)
+
+Expected Time Complexity : O(n)
+
+Expected Auixiliary Space : O(n)
