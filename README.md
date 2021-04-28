@@ -1129,3 +1129,18 @@ https://www.geeksforgeeks.org/queuepush-and-queuepop-in-cpp-stl/
 Expected Time Complexity : O(n)
 
 Expected Auixiliary Space : O(n)
+
+
+#
+
+### DAY 87:
+
+TASK: We are given a Queue data structure that supports standard operations like enqueue() and dequeue(). We need to implement a Stack data structure using only instances of Queue and queue operations allowed on the instances.
+
+https://www.geeksforgeeks.org/implement-stack-using-queue/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-87)
+
+Expected Time Complexity: O(1) for push() and O(N) for pop() (or vice-versa).
+
+Expected Auxiliary Space: O(1) for both push() and pop().
