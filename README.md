@@ -1157,3 +1157,17 @@ https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementa
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-88)
 
 
+#
+
+### DAY 89:
+
+TASK: Given an integer k and a queue of integers, we need to reverse the order of the first k elements of the queue, leaving the other elements in the same relative order.
+
+https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-89)
+
+Expected Time Complexity : O(n+k)
+
+Expected Auixiliary Space : O(n)
+
