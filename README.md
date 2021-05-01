@@ -1171,3 +1171,17 @@ Expected Time Complexity : O(n+k)
 
 Expected Auixiliary Space : O(n)
 
+
+#
+
+### DAY 90:
+
+TASK: We are given a stack data structure with push and pop operations, the task is to implement a queue using instances of stack data structure and operations on them.
+
+https://www.geeksforgeeks.org/queue-using-stacks/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-90)
+
+Expected Time Complexity: O(1) for push() and O(N) for pop() (or vice-versa).
+
+Expected Auxiliary Space: O(1) for both push() and pop().
