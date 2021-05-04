@@ -1200,3 +1200,18 @@ https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of
 Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(n)
+
+
+#
+
+### DAY 92:
+
+TASK: Given a square chessboard of N x N size, the position of Knight and position of a target is given. We need to find out the minimum steps a Knight will take to reach the target position.
+
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-92)
+
+Expected Time Complexity: O(n^2)
+
+Expected Auxiliary Space: O(n^2)
