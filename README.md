@@ -1215,3 +1215,18 @@ https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/
 Expected Time Complexity: O(n^2)
 
 Expected Auxiliary Space: O(n^2)
+
+
+#
+
+### DAY 93:
+
+TASK: Given two sorted arrays. There is only 1 difference between the arrays. The first array has one element extra added in between. Find the index of the extra element.
+
+https://www.geeksforgeeks.org/find-index-of-an-extra-element-present-in-one-sorted-array/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-93)
+
+Expected Time Complexity: O(logn)
+
+Expected Auxiliary Space: O(1)
