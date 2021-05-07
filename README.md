@@ -1244,6 +1244,22 @@ https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
 
 #
 
+### DAY 95:
+
+TASK: Given two linked lists(can be sorted or unsorted) of size n and m of distinct elements. Given a value x. The problem is to count all pairs from both lists whose sum is equal to the given value x.
+Note: The pair has an element from each linked list.
+
+https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-95)
+
+Expected Time Complexity: O(n+m)
+
+Expected Auxiliary Space: O(n+m)
+
+
+#
+
 ### DAY 96:
 
 TASK: Given a linked list, task is to make a function which check whether the length of linked list is even or odd.
