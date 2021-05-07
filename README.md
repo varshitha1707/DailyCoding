@@ -1241,3 +1241,18 @@ https://www.geeksforgeeks.org/find-perimeter-shapes-formed-1s-binary-matrix/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-94)
 
+
+#
+
+### DAY 96:
+
+TASK: Given a linked list, task is to make a function which check whether the length of linked list is even or odd.
+
+https://www.geeksforgeeks.org/check-whether-the-length-of-given-linked-list-is-even-or-odd/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-96)
+
+Expected Time Complexity: O(n)
+
+Expected Auxiliary Space: O(1)
+
