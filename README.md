@@ -1,6 +1,7 @@
 # DAILY CODING
 
 
+
 ### DAY 1:
 
 TASK: Given a number N, print all numbers in the range from 1 to N having exactly 3 divisors.
