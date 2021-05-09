@@ -1272,3 +1272,28 @@ Expected Time Complexity: O(n)
 
 Expected Auxiliary Space: O(1)
 
+
+#
+
+### DAY 97:
+
+TASK: Given a string str and another string patt. Find the character in patt that is present at the minimum index in str. If no character of patt is present in str then print ‘No character present’.
+
+https://www.geeksforgeeks.org/find-character-first-string-present-minimum-index-second-string/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-97)
+
+Expected Time Complexity: O(max(|str|, |patt|))
+
+Expected Auxilary Space: O(K) where K <= 26
+
+
+#
+
+### DAY 98:
+
+TASK: Program to count leaf nodes in a binary tree.
+
+https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-98)
