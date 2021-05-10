@@ -1297,3 +1297,16 @@ TASK: Program to count leaf nodes in a binary tree.
 https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-98)
+
+
+### DAY 99:
+
+TASK: Given a Binary Tree, print Right view of it. Right view of a Binary Tree is set of nodes visible when tree is visited from Right side.
+
+https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-99)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
