@@ -1310,3 +1310,16 @@ https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/
 Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 100:
+
+TASK: Given two Binary Trees, write a function that returns true if two trees are mirror of each other, else false. 
+
+https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-100)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
