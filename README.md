@@ -1312,17 +1312,19 @@ Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
-### DAY 101:
+### DAY 100:
 
-TASK: The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. The diagram below shows two trees each with diameter nine, the leaves that form the ends of the longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).   
+TASK: Given two Binary Trees, write a function that returns true if two trees are mirror of each other, else false. For example, the function should return true for following input trees.   
 
-https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/
 
-### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-101)
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-100)
 
 Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
 
 ### DAY 101:
 
