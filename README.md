@@ -1312,13 +1312,38 @@ Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
-### DAY 100:
+### DAY 101:
 
 TASK: The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. The diagram below shows two trees each with diameter nine, the leaves that form the ends of the longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).   
 
 https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-101)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
+
+### DAY 101:
+
+TASK: The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. The diagram below shows two trees each with diameter nine, the leaves that form the ends of the longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).   
+
+https://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-101)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 102:
+
+TASK: Write a function that returns true if the given Binary Tree is SumTree else false. A SumTree is a Binary Tree where the value of a node is equal to the sum of the nodes present in its left subtree and right subtree. An empty tree is SumTree and the sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.   
+
+https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-102)
 
 Expected Time Complexity: O(N).
 
