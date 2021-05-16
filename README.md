@@ -1376,3 +1376,16 @@ https://www.geeksforgeeks.org/zigzag-tree-traversal/
 Expected Time Complexity: O(N^2).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 105:
+
+TASK: Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present.     
+
+https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-105)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
