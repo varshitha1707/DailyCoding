@@ -1350,3 +1350,29 @@ https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
 Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 103:
+
+TASK: Write a function to print spiral order traversal of a tree. For below tree, function should print 1, 2, 3, 4, 5, 6, 7.    
+
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-103)
+
+Expected Time Complexity: O(N^2).
+
+Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 104:
+
+TASK: Write a function to print ZigZag order traversal of a binary tree. For the below binary tree the zigzag order traversal will be 1 3 2 7 6 5 4.    
+
+https://www.geeksforgeeks.org/zigzag-tree-traversal/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-104)
+
+Expected Time Complexity: O(N^2).
+
+Expected Auxiliary Space: O(Height of the Tree).
