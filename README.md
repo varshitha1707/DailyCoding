@@ -1389,3 +1389,16 @@ https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
 Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 106:
+
+TASK: To identify if two trees are identical, we need to traverse both trees simultaneously, and while traversing we need to compare data and children of the trees.     
+
+https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-106)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
