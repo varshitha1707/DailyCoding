@@ -1416,3 +1416,16 @@ Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
 
+
+### DAY 108:
+
+TASK: Given a Binary Tree, find the vertical sum of the nodes that are in the same vertical line. Print all sums through different vertical lines.
+
+https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-108)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(N).
+
