@@ -1402,3 +1402,17 @@ https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identic
 Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
+
+
+### DAY 107:
+
+TASK: Given a binary tree and a number, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals the given number. Return false if no such path can be found. 
+
+https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-107)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree).
+
