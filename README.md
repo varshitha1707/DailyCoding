@@ -1299,6 +1299,8 @@ https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-98)
 
 
+#
+
 ### DAY 99:
 
 TASK: Given a Binary Tree, print Right view of it. Right view of a Binary Tree is set of nodes visible when tree is visited from Right side.
@@ -1311,6 +1313,8 @@ Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
 
+
+#
 
 ### DAY 100:
 
@@ -1326,6 +1330,8 @@ Expected Auxiliary Space: O(Height of the Tree).
 
 
 
+#
+
 ### DAY 101:
 
 TASK: The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. The diagram below shows two trees each with diameter nine, the leaves that form the ends of the longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).   
@@ -1338,6 +1344,8 @@ Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
 
+
+#
 
 ### DAY 102:
 
@@ -1352,6 +1360,8 @@ Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
+#
+
 ### DAY 103:
 
 TASK: Write a function to print spiral order traversal of a tree. For below tree, function should print 1, 2, 3, 4, 5, 6, 7.    
@@ -1364,6 +1374,8 @@ Expected Time Complexity: O(N^2).
 
 Expected Auxiliary Space: O(Height of the Tree).
 
+
+#
 
 ### DAY 104:
 
@@ -1378,6 +1390,8 @@ Expected Time Complexity: O(N^2).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
+#
+
 ### DAY 105:
 
 TASK: Given a Binary Tree with all unique values and two nodes value n1 and n2. The task is to find the lowest common ancestor of the given two nodes. We may assume that either both n1 and n2 are present in the tree or none of them is present.     
@@ -1390,6 +1404,8 @@ Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(Height of the Tree).
 
+
+#
 
 ### DAY 106:
 
@@ -1404,6 +1420,8 @@ Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
+#
+
 ### DAY 107:
 
 TASK: Given a binary tree and a number, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals the given number. Return false if no such path can be found. 
@@ -1417,6 +1435,8 @@ Expected Time Complexity: O(N).
 Expected Auxiliary Space: O(Height of the Tree).
 
 
+#
+
 ### DAY 108:
 
 TASK: Given a Binary Tree, find the vertical sum of the nodes that are in the same vertical line. Print all sums through different vertical lines.
@@ -1424,6 +1444,21 @@ TASK: Given a Binary Tree, find the vertical sum of the nodes that are in the sa
 https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-108)
+
+Expected Time Complexity: O(N).
+
+Expected Auxiliary Space: O(N).
+
+
+#
+
+### DAY 109:
+
+TASK: Given a binary tree in which nodes are numbered from 1 to n. Given a node and a positive integer K. We have to print the Kth ancestor of the given node in the binary tree. If there does not exist any such ancestor then print -1.
+
+https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-109)
 
 Expected Time Complexity: O(N).
 
