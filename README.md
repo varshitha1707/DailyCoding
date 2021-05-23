@@ -1464,3 +1464,18 @@ Expected Time Complexity: O(N).
 
 Expected Auxiliary Space: O(N).
 
+
+#
+
+### DAY 110:
+
+TASK: Write a function to detect if two trees are isomorphic. Two trees are called isomorphic if one of them can be obtained from other by a series of flips, i.e. by swapping left and right children of a number of nodes.
+
+https://www.geeksforgeeks.org/tree-isomorphism-problem/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-110)
+
+Expected Time Complexity: O(min(M, N)) where M and N are the sizes of the two trees.
+
+Expected Auxiliary Space: O(min(H1, H2)) where H1 and H2 are the heights of the two trees.
+
