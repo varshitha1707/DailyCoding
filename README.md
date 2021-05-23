@@ -1479,3 +1479,18 @@ Expected Time Complexity: O(min(M, N)) where M and N are the sizes of the two tr
 
 Expected Auxiliary Space: O(min(H1, H2)) where H1 and H2 are the heights of the two trees.
 
+
+#
+
+### DAY 111:
+
+TASK: Given a binary tree, write a function that returns true if the tree satisfies below property.
+For every node, data value must be equal to sum of data values in left and right children. Consider data value as 0 for NULL children.
+
+https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
+
+### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-111)
+
+Expected Time Complexiy: O(N).
+
+Expected Auxiliary Space: O(Height of the Tree)
