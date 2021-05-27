@@ -1500,7 +1500,7 @@ Expected Auxiliary Space: O(Height of the Tree)
 
 ### DAY 114:
 
-TASK: Iterative inorder, preorder, postorder traversal in a binary tree
+TASK: Recursive  inorder, preorder, postorder traversal in a binary tree
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-114)
 
@@ -1509,6 +1509,6 @@ TASK: Iterative inorder, preorder, postorder traversal in a binary tree
 
 ### DAY 115:
 
-TASK: Recursive  inorder, preorder, postorder traversal in a binary tree
+TASK: Iterative inorder, preorder, postorder traversal in a binary tree
 
 ### My Solution: [ClickHere](https://github.com/varshitha1707/DailyCoding/tree/main/DAY-115)
